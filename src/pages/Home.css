@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #6370B3;
+}
+
+.center {
+    margin: 0 auto;
+}
